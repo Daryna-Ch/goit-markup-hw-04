@@ -185,7 +185,7 @@ main {
 .hero-image {
   background-color: var(--navy-blue);
   background-image: linear-gradient(var(--grey), var(--grey)),
-    url(/images/people_office.jpg);
+    url(../images/people_office.jpg);
   background-repeat: no-repeat;
   background-position: center;
   max-width: 1440px;
